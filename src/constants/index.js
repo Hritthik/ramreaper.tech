@@ -32,7 +32,7 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Fetures",
   },
   {
     id: "contact",
@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Malware Analysis",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Digital Forensics",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Data Dumping",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Security Breaking",
     icon: creator,
   },
 ];
@@ -194,24 +194,49 @@ const testimonials = [
     company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
+  {
+    testimonial:
+      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Lisa Wang",
+    designation: "CTO",
+    company: "456 Enterprises",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+
+{
+    testimonial:
+      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Lisa Wang",
+    designation: "CTO",
+    company: "456 Enterprises",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
+  {
+    testimonial:
+      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Lisa Wang",
+    designation: "CTO",
+    company: "456 Enterprises",
+    image: "https://randomuser.me/api/portraits/women/6.jpg",
+  },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Windows",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "",
     tags: [
       {
-        name: "react",
+        name: "X86",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "x64",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "ARM",
         color: "pink-text-gradient",
       },
     ],
@@ -219,20 +244,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Mac",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "",
     tags: [
       {
-        name: "react",
+        name: "AMD",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "ARM",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Intel",
         color: "pink-text-gradient",
       },
     ],
@@ -240,20 +265,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Linux",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "",
     tags: [
       {
-        name: "nextjs",
+        name: "kali",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Ubuntu",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Debian",
         color: "pink-text-gradient",
       },
     ],

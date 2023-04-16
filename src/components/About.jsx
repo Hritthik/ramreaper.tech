@@ -47,11 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Ram Repair is a software tool designed to identify and potentially repair issues with RAM, 
+        such as memory leaks, crashes, and other problems. <br></br>
+        With features like memory testing and optimization, 
+        this tool can help to get a ram dump file. 
+        While it may not be able to fix all hardware-related issues with RAM, 
+        it can be a useful tool for ram data dumping and improving the performance of your computer.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
